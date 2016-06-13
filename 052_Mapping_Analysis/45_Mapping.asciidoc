@@ -281,7 +281,7 @@ name. Compare the output of these two requests:
 GET /gb/_analyze
 {
   "field": "tweet"
-  "text": "Black-cats" <1>
+  "text": "black cat" <1>
 }
 
 GET /gb/_analyze
